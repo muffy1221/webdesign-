@@ -1,0 +1,776 @@
+.desktop {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.desktop .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1440px;
+  height: 1024px;
+  position: relative;
+}
+
+.desktop .overlap-group {
+  position: absolute;
+  width: 1440px;
+  height: 1024px;
+  top: 0;
+  left: 0;
+  background-image: url(./img/516efb9e3a382be3bb7f46f8fef719ad-woodlawn-blue-my-last-1.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.desktop .colorful-gaming {
+  position: absolute;
+  width: 1440px;
+  height: 1024px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.desktop .OIP {
+  width: 456px;
+  height: 256px;
+  top: 550px;
+  left: 185px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.desktop .screenshot {
+  position: absolute;
+  width: 224px;
+  height: 216px;
+  top: 0;
+  left: 10px;
+  object-fit: cover;
+}
+
+.desktop .fable-pre-alpha {
+  position: absolute;
+  width: 329px;
+  top: 871px;
+  left: 907px;
+  font-family: "Jersey 10-Regular", Helvetica;
+  font-weight: 400;
+  color: #fffafa;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper {
+  text-decoration: underline;
+}
+
+.desktop .span {
+  font-family: "Jersey 10-Regular", Helvetica;
+  font-weight: 400;
+  color: #fffafa;
+  font-size: 20px;
+  letter-spacing: 0;
+}
+
+.desktop .img {
+  width: 465px;
+  height: 261px;
+  top: 152px;
+  left: 816px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.desktop .img-2 {
+  width: 447px;
+  height: 250px;
+  top: 163px;
+  left: 194px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.desktop .p {
+  position: absolute;
+  width: 387px;
+  top: 445px;
+  left: 838px;
+  font-family: "Jersey 10-Regular", Helvetica;
+  font-weight: 400;
+  color: #fffafa;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-decoration: underline;
+}
+
+.desktop .text-wrapper-2 {
+  width: 243px;
+  top: 451px;
+  left: 347px;
+  color: #fffefe;
+  font-size: 20px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Jersey 10-Regular", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  text-decoration: underline;
+}
+
+.desktop .element {
+  width: 458px;
+  height: 258px;
+  top: 549px;
+  left: 823px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.desktop .element-solid-color {
+  position: absolute;
+  width: 243px;
+  height: 137px;
+  top: 15px;
+  left: 558px;
+  object-fit: cover;
+}
+
+.desktop .text-wrapper-3 {
+  position: absolute;
+  width: 185px;
+  top: 33px;
+  left: 590px;
+  font-family: "Jersey 10-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-4 {
+  position: absolute;
+  width: 388px;
+  top: 941px;
+  left: 1052px;
+  font-family: "Jersey 10-Regular", Helvetica;
+  font-weight: 400;
+  color: #fffefe;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-5 {
+  position: absolute;
+  width: 162px;
+  top: 75px;
+  left: 587px;
+  font-family: "Jersey 10-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .generic-avatar {
+  position: absolute;
+  width: 79px;
+  height: 76px;
+  top: 32px;
+  left: 1316px;
+}
+
+.desktop .pearl-abyss-crimson {
+  position: absolute;
+  width: 281px;
+  top: 855px;
+  left: 277px;
+  font-family: "Jersey 10-Regular", Helvetica;
+  font-weight: 400;
+  color: #fffbfb;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-6 {
+  font-family: "Jersey 10-Regular", Helvetica;
+  font-weight: 400;
+  color: #fffbfb;
+  font-size: 20px;
+  letter-spacing: 0;
+}
+
+.desktop .OIP-2 {
+  width: 6993px;
+  height: 4367px;
+  top: 4249px;
+  left: -13383px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.desktop .overlap {
+  position: absolute;
+  width: 23977px;
+  height: 6258px;
+  top: 4216px;
+  left: -3959px;
+}
+
+.desktop .OIP-3 {
+  width: 7226px;
+  height: 4055px;
+  top: 189px;
+  left: 112px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.desktop .ice-dodo {
+  position: absolute;
+  width: 6969px;
+  height: 4432px;
+  top: 0;
+  left: 10191px;
+  object-fit: cover;
+}
+
+.desktop .text-wrapper-7 {
+  position: absolute;
+  width: 3113px;
+  top: 4255px;
+  left: 18376px;
+  font-family: "Jersey 10-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 700px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .element-f-e {
+  width: 7338px;
+  height: 4128px;
+  top: 152px;
+  left: 0;
+  position: absolute;
+  object-fit: cover;
+}
+
+.desktop .img-3 {
+  width: 7394px;
+  height: 4135px;
+  top: 149px;
+  left: 9842px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.desktop .https-www-pcgamesn {
+  position: absolute;
+  width: 7887px;
+  top: 4033px;
+  left: 16090px;
+  font-family: "Jersey 10-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 700px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .pearl-abyss-crimson-2 {
+  position: absolute;
+  width: 6809px;
+  top: 3897px;
+  left: 6583px;
+  font-family: "Jersey 10-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 700px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-8 {
+  font-family: "Jersey 10-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 700px;
+  letter-spacing: 0;
+}
+
+.desktop .text-wrapper-9 {
+  position: absolute;
+  width: 7159px;
+  top: 4348px;
+  left: 6409px;
+  font-family: "Jersey 10-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 700px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-decoration: underline;
+}
+
+.desktop .text-wrapper-10 {
+  position: absolute;
+  width: 7658px;
+  top: 3918px;
+  left: 15828px;
+  font-family: "Jersey 10-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 700px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-decoration: underline;
+}
+
+.desktop .overlap-2 {
+  position: absolute;
+  width: 8641px;
+  height: 1640px;
+  top: 8473px;
+  left: 21861px;
+}
+
+.desktop .text-wrapper-11 {
+  width: 7160px;
+  top: 18px;
+  left: 0;
+  color: #000000;
+  font-size: 700px;
+  position: absolute;
+  font-family: "Jersey 10-Regular", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  text-decoration: underline;
+}
+
+.desktop .text-wrapper-12 {
+  position: absolute;
+  width: 6852px;
+  top: 0;
+  left: 490px;
+  font-family: "Jersey 10-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 700px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-decoration: underline;
+}
+
+.desktop .text-wrapper-13 {
+  position: absolute;
+  width: 7617px;
+  top: 71px;
+  left: 1024px;
+  font-family: "Jersey 10-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 700px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+.desktop {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.desktop .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1440px;
+  height: 1024px;
+  position: relative;
+}
+
+.desktop .overlap-group {
+  position: absolute;
+  width: 1440px;
+  height: 1024px;
+  top: 0;
+  left: 0;
+  background-image: url(./img/516efb9e3a382be3bb7f46f8fef719ad-woodlawn-blue-my-last-1.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.desktop .colorful-gaming {
+  position: absolute;
+  width: 1440px;
+  height: 1024px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.desktop .OIP {
+  width: 456px;
+  height: 256px;
+  top: 550px;
+  left: 185px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.desktop .screenshot {
+  position: absolute;
+  width: 224px;
+  height: 216px;
+  top: 0;
+  left: 10px;
+  object-fit: cover;
+}
+
+.desktop .fable-pre-alpha {
+  position: absolute;
+  width: 329px;
+  top: 871px;
+  left: 907px;
+  font-family: "Jersey 10-Regular", Helvetica;
+  font-weight: 400;
+  color: #fffafa;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper {
+  text-decoration: underline;
+}
+
+.desktop .span {
+  font-family: "Jersey 10-Regular", Helvetica;
+  font-weight: 400;
+  color: #fffafa;
+  font-size: 20px;
+  letter-spacing: 0;
+}
+
+.desktop .img {
+  width: 465px;
+  height: 261px;
+  top: 152px;
+  left: 816px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.desktop .img-2 {
+  width: 447px;
+  height: 250px;
+  top: 163px;
+  left: 194px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.desktop .p {
+  position: absolute;
+  width: 387px;
+  top: 445px;
+  left: 838px;
+  font-family: "Jersey 10-Regular", Helvetica;
+  font-weight: 400;
+  color: #fffafa;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-decoration: underline;
+}
+
+.desktop .text-wrapper-2 {
+  width: 243px;
+  top: 451px;
+  left: 347px;
+  color: #fffefe;
+  font-size: 20px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Jersey 10-Regular", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  text-decoration: underline;
+}
+
+.desktop .element {
+  width: 458px;
+  height: 258px;
+  top: 549px;
+  left: 823px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.desktop .element-solid-color {
+  position: absolute;
+  width: 243px;
+  height: 137px;
+  top: 15px;
+  left: 558px;
+  object-fit: cover;
+}
+
+.desktop .text-wrapper-3 {
+  position: absolute;
+  width: 185px;
+  top: 33px;
+  left: 590px;
+  font-family: "Jersey 10-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-4 {
+  position: absolute;
+  width: 388px;
+  top: 941px;
+  left: 1052px;
+  font-family: "Jersey 10-Regular", Helvetica;
+  font-weight: 400;
+  color: #fffefe;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-5 {
+  position: absolute;
+  width: 162px;
+  top: 75px;
+  left: 587px;
+  font-family: "Jersey 10-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .generic-avatar {
+  position: absolute;
+  width: 79px;
+  height: 76px;
+  top: 32px;
+  left: 1316px;
+}
+
+.desktop .pearl-abyss-crimson {
+  position: absolute;
+  width: 281px;
+  top: 855px;
+  left: 277px;
+  font-family: "Jersey 10-Regular", Helvetica;
+  font-weight: 400;
+  color: #fffbfb;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-6 {
+  font-family: "Jersey 10-Regular", Helvetica;
+  font-weight: 400;
+  color: #fffbfb;
+  font-size: 20px;
+  letter-spacing: 0;
+}
+
+.desktop .OIP-2 {
+  width: 6993px;
+  height: 4367px;
+  top: 4249px;
+  left: -13383px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.desktop .overlap {
+  position: absolute;
+  width: 23977px;
+  height: 6258px;
+  top: 4216px;
+  left: -3959px;
+}
+
+.desktop .OIP-3 {
+  width: 7226px;
+  height: 4055px;
+  top: 189px;
+  left: 112px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.desktop .ice-dodo {
+  position: absolute;
+  width: 6969px;
+  height: 4432px;
+  top: 0;
+  left: 10191px;
+  object-fit: cover;
+}
+
+.desktop .text-wrapper-7 {
+  position: absolute;
+  width: 3113px;
+  top: 4255px;
+  left: 18376px;
+  font-family: "Jersey 10-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 700px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .element-f-e {
+  width: 7338px;
+  height: 4128px;
+  top: 152px;
+  left: 0;
+  position: absolute;
+  object-fit: cover;
+}
+
+.desktop .img-3 {
+  width: 7394px;
+  height: 4135px;
+  top: 149px;
+  left: 9842px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.desktop .https-www-pcgamesn {
+  position: absolute;
+  width: 7887px;
+  top: 4033px;
+  left: 16090px;
+  font-family: "Jersey 10-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 700px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .pearl-abyss-crimson-2 {
+  position: absolute;
+  width: 6809px;
+  top: 3897px;
+  left: 6583px;
+  font-family: "Jersey 10-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 700px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-8 {
+  font-family: "Jersey 10-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 700px;
+  letter-spacing: 0;
+}
+
+.desktop .text-wrapper-9 {
+  position: absolute;
+  width: 7159px;
+  top: 4348px;
+  left: 6409px;
+  font-family: "Jersey 10-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 700px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-decoration: underline;
+}
+
+.desktop .text-wrapper-10 {
+  position: absolute;
+  width: 7658px;
+  top: 3918px;
+  left: 15828px;
+  font-family: "Jersey 10-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 700px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-decoration: underline;
+}
+
+.desktop .overlap-2 {
+  position: absolute;
+  width: 8641px;
+  height: 1640px;
+  top: 8473px;
+  left: 21861px;
+}
+
+.desktop .text-wrapper-11 {
+  width: 7160px;
+  top: 18px;
+  left: 0;
+  color: #000000;
+  font-size: 700px;
+  position: absolute;
+  font-family: "Jersey 10-Regular", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  text-decoration: underline;
+}
+
+.desktop .text-wrapper-12 {
+  position: absolute;
+  width: 6852px;
+  top: 0;
+  left: 490px;
+  font-family: "Jersey 10-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 700px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-decoration: underline;
+}
+
+.desktop .text-wrapper-13 {
+  position: absolute;
+  width: 7617px;
+  top: 71px;
+  left: 1024px;
+  font-family: "Jersey 10-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 700px;
+  letter-spacing: 0;
+  line-height: normal;
+}
